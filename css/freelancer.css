@@ -4097,6 +4097,21 @@ h3.soldout {
 .rozsa.holsten-perle {
   background-image: url('../img/rozsak/holsten-perle.jpg');
 }
+.rozsa.eminence {
+  background-image: url('../img/rozsak/eminence.jpg');
+}
+.rozsa.peace {
+  background-image: url('../img/rozsak/peace.jpg');
+}
+.rozsa.san-remo {
+  background-image: url('../img/rozsak/san-remo.jpg');
+}
+.rozsa.swany {
+  background-image: url('../img/rozsak/swany.jpg');
+}
+.rozsa.red-carpet {
+  background-image: url('../img/rozsak/red-carpet.jpg');
+}
 header {
   background: url('../img/rozsa-fold.jpg') center;
 }
